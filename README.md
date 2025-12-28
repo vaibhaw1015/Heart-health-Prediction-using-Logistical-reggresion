@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# ❤️ Heart Health Prediction using Machine Learning
 
 This is a web-based Heart Disease Prediction system built using:
 
